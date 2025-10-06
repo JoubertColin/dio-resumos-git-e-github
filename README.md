@@ -3,7 +3,7 @@
 
 Repositório para armazenar resumos sobre Git e Github do Curso Versionamento de Código com Git e Github da [Digital Innovation One](https://www.dio.me/)
 
-## 😭 Documentação
+## 📔 Documentação
 
 - [Documentação Git](https://git-scm.com/docs)
 - [Documentação GitHub](https://docs.github.com/pt)
